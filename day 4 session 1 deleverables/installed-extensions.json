@@ -1,0 +1,176 @@
+﻿[
+    {
+        "id":  "dbaeumer.vscode-eslint",
+        "publisher":  "dbaeumer",
+        "name":  "vscode-eslint",
+        "version":  "3.0.16"
+    },
+    {
+        "id":  "digitalbrainstem.javascript-ejs-support",
+        "publisher":  "digitalbrainstem",
+        "name":  "javascript-ejs-support",
+        "version":  "1.3.3"
+    },
+    {
+        "id":  "docker.docker",
+        "publisher":  "docker",
+        "name":  "docker",
+        "version":  "0.18.0"
+    },
+    {
+        "id":  "ecmel.vscode-html-css",
+        "publisher":  "ecmel",
+        "name":  "vscode-html-css",
+        "version":  "2.0.13"
+    },
+    {
+        "id":  "erikphansen.vscode-toggle-column-selection",
+        "publisher":  "erikphansen",
+        "name":  "vscode-toggle-column-selection",
+        "version":  "1.0.6"
+    },
+    {
+        "id":  "esbenp.prettier-vscode",
+        "publisher":  "esbenp",
+        "name":  "prettier-vscode",
+        "version":  "11.0.0"
+    },
+    {
+        "id":  "file-icons.file-icons",
+        "publisher":  "file-icons",
+        "name":  "file-icons",
+        "version":  "1.1.0"
+    },
+    {
+        "id":  "formulahendry.auto-close-tag",
+        "publisher":  "formulahendry",
+        "name":  "auto-close-tag",
+        "version":  "0.5.15"
+    },
+    {
+        "id":  "formulahendry.auto-rename-tag",
+        "publisher":  "formulahendry",
+        "name":  "auto-rename-tag",
+        "version":  "0.1.10"
+    },
+    {
+        "id":  "formulahendry.code-runner",
+        "publisher":  "formulahendry",
+        "name":  "code-runner",
+        "version":  "0.12.2"
+    },
+    {
+        "id":  "franneck94.c-cpp-runner",
+        "publisher":  "franneck94",
+        "name":  "c-cpp-runner",
+        "version":  "9.5.0"
+    },
+    {
+        "id":  "ms-azuretools.vscode-containers",
+        "publisher":  "ms-azuretools",
+        "name":  "vscode-containers",
+        "version":  "2.2.0"
+    },
+    {
+        "id":  "ms-azuretools.vscode-docker",
+        "publisher":  "ms-azuretools",
+        "name":  "vscode-docker",
+        "version":  "2.0.0"
+    },
+    {
+        "id":  "ms-python.debugpy",
+        "publisher":  "ms-python",
+        "name":  "debugpy",
+        "version":  "2025.14.1"
+    },
+    {
+        "id":  "ms-python.python",
+        "publisher":  "ms-python",
+        "name":  "python",
+        "version":  "2025.16.0"
+    },
+    {
+        "id":  "ms-python.vscode-pylance",
+        "publisher":  "ms-python",
+        "name":  "vscode-pylance",
+        "version":  "2025.9.1"
+    },
+    {
+        "id":  "ms-python.vscode-python-envs",
+        "publisher":  "ms-python",
+        "name":  "vscode-python-envs",
+        "version":  "1.10.0"
+    },
+    {
+        "id":  "ms-vscode-remote.remote-containers",
+        "publisher":  "ms-vscode-remote",
+        "name":  "remote-containers",
+        "version":  "0.427.0"
+    },
+    {
+        "id":  "ms-vscode.cmake-tools",
+        "publisher":  "ms-vscode",
+        "name":  "cmake-tools",
+        "version":  "1.21.36"
+    },
+    {
+        "id":  "ms-vscode.cpptools",
+        "publisher":  "ms-vscode",
+        "name":  "cpptools",
+        "version":  "1.28.3"
+    },
+    {
+        "id":  "ms-vscode.cpptools-extension-pack",
+        "publisher":  "ms-vscode",
+        "name":  "cpptools-extension-pack",
+        "version":  "1.3.1"
+    },
+    {
+        "id":  "ms-vscode.cpptools-themes",
+        "publisher":  "ms-vscode",
+        "name":  "cpptools-themes",
+        "version":  "2.0.0"
+    },
+    {
+        "id":  "ms-vscode.live-server",
+        "publisher":  "ms-vscode",
+        "name":  "live-server",
+        "version":  "0.4.16"
+    },
+    {
+        "id":  "naumovs.color-highlight",
+        "publisher":  "naumovs",
+        "name":  "color-highlight",
+        "version":  "2.8.0"
+    },
+    {
+        "id":  "ritwickdey.liveserver",
+        "publisher":  "ritwickdey",
+        "name":  "liveserver",
+        "version":  "5.7.9"
+    },
+    {
+        "id":  "sjodle.chatterbox",
+        "publisher":  "sjodle",
+        "name":  "chatterbox",
+        "version":  "1.0.1"
+    },
+    {
+        "id":  "twxs.cmake",
+        "publisher":  "twxs",
+        "name":  "cmake",
+        "version":  "0.0.17"
+    },
+    {
+        "id":  "vadimcn.vscode-lldb",
+        "publisher":  "vadimcn",
+        "name":  "vscode-lldb",
+        "version":  "1.11.8"
+    },
+    {
+        "id":  "xabikos.javascriptsnippets",
+        "publisher":  "xabikos",
+        "name":  "javascriptsnippets",
+        "version":  "1.8.0"
+    }
+]
